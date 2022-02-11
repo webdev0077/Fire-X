@@ -8,7 +8,7 @@
    <i>The Awaited Bot</i>
 </p>
  
-## New Updated Repo is [Here](https://github.com/Teameviral/FIREXUSERBOT).
+## New Updated Repo is [Here](https://github.com/webdev0077/FIREXUSERBOT).
    
 # [Fire-X](https://t.me/FireXUserBot) userbot
 
